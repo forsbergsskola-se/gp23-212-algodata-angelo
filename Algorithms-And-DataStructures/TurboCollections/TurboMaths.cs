@@ -6,4 +6,22 @@ public static class TurboMaths
     {
         Console.WriteLine($"Hello, I'm {typeof(TurboMaths).FullName}");
     }
+
+    public static IEnumerable<int> GetEvenNumbers(int maxNumber)
+    {
+        for (int i = 0; i <= maxNumber; i += 2)
+        {
+            yield return i;
+        }
+    }
+    public static List<int> GetEvenNumbersList(int maxNumber)
+    {
+        List<int> evenList = new List<int>();
+        for (int i = 0; i <= maxNumber; i += 2)
+        {
+            evenList.Add(i);
+        }
+
+        return evenList;
+    }
 }
