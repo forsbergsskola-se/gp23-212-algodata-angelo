@@ -1,0 +1,14 @@
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\bin\Debug\net7.0\GameStateHistory.exe
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\bin\Debug\net7.0\GameStateHistory.deps.json
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\bin\Debug\net7.0\GameStateHistory.runtimeconfig.json
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\bin\Debug\net7.0\GameStateHistory.dll
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\bin\Debug\net7.0\GameStateHistory.pdb
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.AssemblyInfoInputs.cache
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.AssemblyInfo.cs
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.csproj.CoreCompileInputs.cache
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.dll
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\refint\GameStateHistory.dll
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.pdb
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\GameStateHistory.genruntimeconfig.cache
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\GameStateHistory\obj\Debug\net7.0\ref\GameStateHistory.dll
