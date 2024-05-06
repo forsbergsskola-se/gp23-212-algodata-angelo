@@ -1,0 +1,14 @@
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\bin\Debug\net7.0\P1_2_Collections.exe
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\bin\Debug\net7.0\P1_2_Collections.deps.json
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\bin\Debug\net7.0\P1_2_Collections.runtimeconfig.json
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\bin\Debug\net7.0\P1_2_Collections.dll
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\bin\Debug\net7.0\P1_2_Collections.pdb
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.AssemblyInfoInputs.cache
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.AssemblyInfo.cs
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.csproj.CoreCompileInputs.cache
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.dll
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\refint\P1_2_Collections.dll
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.pdb
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\P1_2_Collections.genruntimeconfig.cache
+C:\Unity Projects\gp23-212-algodata-angelo\Algorithms-And-DataStructures\P1_2_Collections\obj\Debug\net7.0\ref\P1_2_Collections.dll
