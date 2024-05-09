@@ -13,13 +13,16 @@ public class TurboLinkedStack<T> : IEnumerable<T> {
             Value = item,
             Previous = null
         };
-        LastNode.Previous = newNode;
+        //Error handling: Init, otherwise => nullref
+        if (LastNode == null) { LastNode = newNode; }
+        else { LastNode.Previous = newNode; }
         LastNode = newNode;
     }
 
     public T Peek()
     {
-        return LastNode.Value;
+        if (LastNode != null) { return LastNode.Value; }
+        else { throw new NotImplementedException("Empty"); }
     }
 
     public T Pop()
