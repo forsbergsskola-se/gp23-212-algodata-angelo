@@ -2,7 +2,6 @@ using TurboCollections;
 namespace TurboCollections.Test;
 public static class SelectionSortTests
 {
-    //Hello World
     [Test]
     public static void TestSelectionSort()
     {

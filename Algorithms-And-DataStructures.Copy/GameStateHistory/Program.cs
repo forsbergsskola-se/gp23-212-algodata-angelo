@@ -17,7 +17,9 @@ while (true)
     PrintOut(currentState);
 
     //User choice
+    Console.Write("\n<<<");
     char input = Console.ReadKey().KeyChar;
+    Console.WriteLine();
     // Handle user input
     InputHandle(input, currentState);
 }
