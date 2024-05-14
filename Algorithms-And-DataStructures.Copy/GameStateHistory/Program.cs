@@ -76,7 +76,7 @@ void InputHandle(char input, GameState gameState)
 
 void StepBack() //Error handling when using Pop() //TODO not working correctly
 {
-    if (gameStack.Count > 1)
+    if (gameStack.Count > 0)
     {
         gameStack.Push(gameStack.Pop());
     }

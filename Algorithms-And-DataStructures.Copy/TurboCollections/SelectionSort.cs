@@ -1,8 +1,8 @@
 namespace TurboCollections;
 
-public static class TurboSort
+public static partial class TurboSort
 {
-    public static void SelectionSort(List<int> list)
+    public static void SelectionSorting(List<int> list)
     {
         for (int i = 0; i < list.Count; i++)
         {
