@@ -25,7 +25,6 @@ public static partial class TurboSort
                 partitionIndex++;
             }
         }
-
         (list[partitionIndex], list[high]) = (list[high], list[partitionIndex]);
         return partitionIndex;
     }
