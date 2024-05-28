@@ -10,9 +10,10 @@ public static class TurboTreeTest
         tree.SetValue(0, 10);
         tree.SetValue(1, 5);
         tree.SetValue(2,12);
+        int temp = tree.GetValue(1);
         
         Assert.AreEqual(tree.nodes[0], 10);
-        Assert.AreEqual(tree.nodes[1], 5);
+        Assert.AreEqual(temp, 5);
         Assert.AreEqual(tree.nodes[2], 12);
         
     }
