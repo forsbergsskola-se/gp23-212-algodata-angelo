@@ -22,25 +22,23 @@ public class Node<T>
         return new Node<T>(tree.GetRightTreeIndex(nX));
     }
 
-    public T GetValue(Tree<T> tree, int nX) //Return Node in Index
+    public Node<T> GetValue(Tree<T> tree, int nX) //Return Node in Index
     {
         return tree.GetValue(nX);
     }
 
-    public void SetValue(int nX, Tree<T> tree, T value) //Set Node Value
+    public void SetValue(int nX, Tree<T> tree, Node<T> value) //Set Node Value
     {
         tree.SetValue(nX, value);
     }
-    
-    
 }
 public class Tree<T>
 {
-    public T[] nodes;
+    public Node<T>[] nodes;
 
-    public Tree(int size) { nodes = new T[size]; } //Set size
+    public Tree(int size) { nodes = new Node<T>[size]; } //Set size
     public int GetLeftTreeIndex(int nX) { return (nX * 2) + 1; } //Returning left index
     public int GetRightTreeIndex(int nX) { return (nX * 2) + 2; } //Returning right index
-    public T GetValue(int nX) { return nodes[nX]; } //Returning value in index
-    public void SetValue(int nX, T value) { nodes[nX] = value; } //Set value in index
+    public Node<T> GetValue(int nX) { return nodes[nX]; } //Returning value in index
+    public void SetValue(int nX, Node<T> value) { nodes[nX] = value; } //Set value in index
 }
